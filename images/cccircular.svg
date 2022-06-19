@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2322" height="2186" viewBox="0 0 2322 2186">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0.15" stop-color="#a8a8a8" stop-opacity="0.502"/>
+      <stop offset="0.75" stop-color="#d9d9d9"/>
+      <stop offset="1" stop-color="#fff"/>
+    </radialGradient>
+  </defs>
+  <g id="cccircular" transform="translate(127.5 128.351)" opacity="0.2">
+    <ellipse id="Ellipse_33" data-name="Ellipse 33" cx="1161" cy="1093" rx="1161" ry="1093" transform="translate(-127.5 -128.351)" opacity="0.05" fill="url(#radial-gradient)"/>
+    <ellipse id="Ellipse_34" data-name="Ellipse 34" cx="1111" cy="1042.5" rx="1111" ry="1042.5" transform="translate(-79.5 -79.351)" opacity="0.1" fill="url(#radial-gradient)"/>
+    <ellipse id="Ellipse_35" data-name="Ellipse 35" cx="1062.5" cy="993" rx="1062.5" ry="993" transform="translate(-30.5 -29.351)" opacity="0.14" fill="url(#radial-gradient)"/>
+    <ellipse id="Ellipse_36" data-name="Ellipse 36" cx="1012.5" cy="944" rx="1012.5" ry="944" transform="translate(20.5 20.649)" opacity="0.19" fill="url(#radial-gradient)"/>
+    <ellipse id="Ellipse_37" data-name="Ellipse 37" cx="963" cy="894" rx="963" ry="894" transform="translate(69.5 70.649)" opacity="0.23" fill="url(#radial-gradient)"/>
+    <ellipse id="Ellipse_38" data-name="Ellipse 38" cx="913.5" cy="845" rx="913.5" ry="845" transform="translate(119.5 119.649)" opacity="0.28" fill="url(#radial-gradient)"/>
+    <ellipse id="Ellipse_39" data-name="Ellipse 39" cx="863" cy="795" rx="863" ry="795" transform="translate(168.5 168.649)" opacity="0.32" fill="url(#radial-gradient)"/>
+    <circle id="Ellipse_40" data-name="Ellipse 40" cx="744.5" cy="744.5" r="744.5" transform="translate(287.5 220.649)" opacity="0.37" fill="url(#radial-gradient)"/>
+    <ellipse id="Ellipse_41" data-name="Ellipse 41" cx="764.5" cy="696" rx="764.5" ry="696" transform="translate(268.5 268.649)" opacity="0.41" fill="url(#radial-gradient)"/>
+    <ellipse id="Ellipse_42" data-name="Ellipse 42" cx="715" cy="646" rx="715" ry="646" transform="translate(317.5 318.649)" opacity="0.46" fill="url(#radial-gradient)"/>
+    <ellipse id="Ellipse_43" data-name="Ellipse 43" cx="596" cy="596.5" rx="596" ry="596.5" transform="translate(435.5 367.649)" opacity="0.5" fill="url(#radial-gradient)"/>
+    <ellipse id="Ellipse_44" data-name="Ellipse 44" cx="546" cy="545.5" rx="546" ry="545.5" transform="translate(486.5 419.649)" opacity="0.55" fill="url(#radial-gradient)"/>
+    <circle id="Ellipse_45" data-name="Ellipse 45" cx="496.5" cy="496.5" r="496.5" transform="translate(535.5 468.649)" opacity="0.59" fill="url(#radial-gradient)"/>
+    <ellipse id="Ellipse_46" data-name="Ellipse 46" cx="447.5" cy="448" rx="447.5" ry="448" transform="translate(585.5 516.649)" opacity="0.64" fill="url(#radial-gradient)"/>
+    <ellipse id="Ellipse_47" data-name="Ellipse 47" cx="397" cy="397.5" rx="397" ry="397.5" transform="translate(634.5 566.649)" opacity="0.68" fill="url(#radial-gradient)"/>
+    <circle id="Ellipse_48" data-name="Ellipse 48" cx="347.5" cy="347.5" r="347.5" transform="translate(684.5 617.649)" opacity="0.73" fill="url(#radial-gradient)"/>
+    <ellipse id="Ellipse_49" data-name="Ellipse 49" cx="298" cy="297.5" rx="298" ry="297.5" transform="translate(734.5 667.649)" opacity="0.77" fill="url(#radial-gradient)"/>
+    <circle id="Ellipse_50" data-name="Ellipse 50" cx="248.5" cy="248.5" r="248.5" transform="translate(783.5 716.649)" opacity="0.82" fill="url(#radial-gradient)"/>
+    <ellipse id="Ellipse_51" data-name="Ellipse 51" cx="198.5" cy="199" rx="198.5" ry="199" transform="translate(833.5 765.649)" opacity="0.86" fill="url(#radial-gradient)"/>
+    <circle id="Ellipse_52" data-name="Ellipse 52" cx="148.5" cy="148.5" r="148.5" transform="translate(883.5 816.649)" opacity="0.91" fill="url(#radial-gradient)"/>
+    <circle id="Ellipse_53" data-name="Ellipse 53" cx="99.5" cy="99.5" r="99.5" transform="translate(932.5 865.649)" opacity="0.95" fill="url(#radial-gradient)"/>
+  </g>
+</svg>

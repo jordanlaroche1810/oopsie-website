@@ -1,0 +1,12 @@
+RewriteEngine on
+
+#HTTP vers HTTPS
+RewriteCond %{Server_Port} !=443
+RewriteRule ^(.*)$ https://gardenstudioparis.com/$1 [R=301,L]
+
+#WWW vers gardenstudioparis
+RewriteCond %{HTTP_HOST} ^www.gardenstudioparis\.com$ [NC]
+RewriteRule ^(.*)$ https://gardenstudioparis.com/$3 [L,R=301]
+
+#Afficher le 404 si le code est reconnu
+#ErrorDocument 404 https://gardenstudioparis.com/404.php
